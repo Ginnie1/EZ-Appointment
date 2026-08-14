@@ -42,12 +42,12 @@ Through this project, I improved my understanding of:
 - HTML, CSS, and JavaScript 
 - Designing interfaces for healthcare users 
  
-## Built With 
+## This project was built with 
  
+- Figma 
 - HTML 
 - CSS 
-- JavaScript 
-- Figma 
+- JavaScript  
  
 ## Features 
  
@@ -72,12 +72,9 @@ Through this project, I improved my understanding of:
 8. Patient reviews the appointment details. 
 9. Patient confirms the appointment. 
 10. Patient checks their queue status. 
+
  
-## Design Process 
- 
-The project was designed in Figma and developed using HTML, CSS, and JavaScript. 
- 
-The design process included: 
+## The design process included: 
  
 - User research 
 - Persona development 
@@ -89,7 +86,7 @@ The design process included:
 ## Project Screens
 
 ### Login
-![Login Screen](img/01login.png)
+![Login Screen](img)
 
 ### Home
 ![Sign Up](img/02signup.png)
@@ -105,11 +102,11 @@ The design process included:
  
 ## Demo 
  
-[Vercel Live Demo](https://my-capstone-project-mu.vercel.app/)
+[Netlifyl Live Demo](https://myehacapstoneproject.netlify.app/)
  
 ## Repository 
  
-[GitHub Repository](https://github.com/Ginnie1/My-Capstone-Project)
+[GitHub Repository](https://github.com/Ginnie1/EZ-Appointment)
  
 ## Acknowledgements 
  
