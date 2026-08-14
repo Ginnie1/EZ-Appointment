@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EZ Appointment Create Account</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="signup">
+    <main class="app">
+        <section class="hero">
+            <div class="hero-logo">
+                🩺 <strong>EZ Appointment</strong></div>
+            <h2>Skip<br>long queues</h2>
+            <p>Book online.<br>Arrive on time</p>
+            <img src="img/drsam.png"alt="Dr. Samuel"
+                class="doctor-image"><div class="doctor-message">
+                <strong>I'm Dr. Samuel 👋</strong>
+                <span>Ready when you are</span></div>
+        </section>
+        <section class="form">
+            <h1>Create Account</h1>
+            <p class="intro">Join EZ Appointment to get started</p>
+            <div class="field"><label for="signup-name">Full name</label>
+                <input id="signup-name"type="text"placeholder="Enter your full name here">
+            </div><div class="field">
+                <label for="signup-email">Email</label>
+                <input id="signup-email"type="email"placeholder="Enter your email address"></div>
+            <div class="field">
+                <label for="signup-phone">Phone Number</label>
+                <input id="signup-phone"type="tel"placeholder="Enter your number"></div>
+            <div class="field">
+                <label for="signup-password">Password</label>
+                <input id="signup-password"type="password"placeholder="Create Password"></div>
+            <div class="field">
+                <label for="signup-confirm">Confirm Password</label>
+                <input id="signup-confirm"type="password"placeholder="Confirm your Password"></div>
+            <a href="04-upcoming.html"class="primary">Create Account</a>
+            <div class="divider">Or Sign up with</div>
+            <button type="button"class="secondary">Continue with Google</button>
+            <p class="account-switch">Already have an account?
+                <a href="02-login.html"class="link">Sign in</a></p>
+        </section>
+        <div class="toast"></div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
