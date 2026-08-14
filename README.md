@@ -86,19 +86,19 @@ Through this project, I improved my understanding of:
 ## Project Screens
 
 ### Login
-![Login Screen](img/01 login.png)
+![Login Screen](img/01-login.png)
 
 ### Home
-![Sign Up](img/02 signup.png)
+![Sign Up](img/02-signup.png)
 
 ### Home
-![Home Screen](img/03 home.png)
+![Home Screen](img/03-home.png)
 
 ### Book Appointment
-![No Upcoming](img/04 noupcoming.png)
+![No Upcoming](img/04-noupcoming.png)
 
 ### Queue Status
-![Live Queue](img/05 livequeue.png)
+![Live Queue](img/05-livequeue.png)
  
 ## Demo 
  
