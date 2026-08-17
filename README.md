@@ -86,20 +86,20 @@ Through this project, I improved my understanding of:
 ## Project Screens
 
 ### Login
-![Login Screen](img/01login.png)
+![Login Screen](img/figmawireframes/01login.png)
 
 ### Sign Up
-![Sign Up](img/02signup.png)
+![Sign Up Screen](img/figmawireframes/02signup.png)
 
 ### Home
-![Home Screen](img/03home.png)
+![Home Screen](img/figmawireframes/03home.png)
 
 ### Book Appointment
-![Book Appointment](img/04no-upcoming.png)
+![No Upcoming Appointment](img/figmawireframes/04no-upcoming.png)
 
 ### Queue Status
-![Live Queue](img/09livequeue.png)
- 
+![Live Queue](img/figmawireframes/09queue.png)
+
 ## Demo 
  
 [Netlifyl Live Demo](https://myehacapstoneproject.netlify.app/)
